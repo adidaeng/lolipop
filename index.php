@@ -1,1 +1,3 @@
-tes
+<?php
+
+echo 'tes';
